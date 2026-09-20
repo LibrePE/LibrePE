@@ -11,9 +11,10 @@ LibrePE is a better version of the original Windows PE based on Windows PE 11.
 | Powershell | ❌ | ✅ |
 | Community-maked | ❌ | ✅ |
 | Notepad++ | ❌ | ✅ |
+| File Manager (Explorer++) | ❌ | ✅ |
 | Created using | Windows ADK | Windows ADK |
 
 # Status
-> Version: 26.09-alpha1
+> Version: 26.09-alpha2
 > Released to Public: no
 > Active developement: Yes
