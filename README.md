@@ -10,6 +10,7 @@ LibrePE is a better version of the original Windows PE based on Windows PE 11.
 | Windows Version Applet | ❌ | ✅ |
 | Powershell | ❌ | ✅ |
 | Community-maked | ❌ | ✅ |
+| Notepad++ | ❌ | ✅ |
 | Created using | Windows ADK | Windows ADK |
 
 # Status
