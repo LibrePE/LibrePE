@@ -13,6 +13,7 @@ It brings more features to LibrePE than the normal PE, such as Firefox, 7-zip, W
 | Community-maked | ❌ | ✅ |
 | Notepad++ | ❌ | ✅ |
 | File Manager (Explorer++) | ❌ | ✅ |
+| AnyBurn | ❌ | ✅ |
 | Created using | Windows ADK | Windows ADK |
 
 # LibrePE as a main OS 
