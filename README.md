@@ -21,7 +21,7 @@ It brings more features to LibrePE than the normal PE, such as Firefox, 7-zip, W
 Following Microsoft Website, LibrePE daily use is not recommended, and only used for deployment and recovery
 
 # Status
-> Version: 26.09-beta1
+> Version: 26.09-beta1.1
 > Released to Public: no
 > Active developement: Yes
 
