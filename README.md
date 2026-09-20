@@ -14,13 +14,14 @@ It brings more features to LibrePE than the normal PE, such as Firefox, 7-zip, W
 | Notepad++ | ❌ | ✅ |
 | File Manager (Explorer++) | ❌ | ✅ |
 | AnyBurn | ❌ | ✅ |
+| Rufus | ❌ | ✅ |
 | Created using | Windows ADK | Windows ADK |
 
 # LibrePE as a main OS 
 Following Microsoft Website, LibrePE daily use is not recommended, and only used for deployment and recovery
 
 # Status
-> Version: 26.09-alpha7
+> Version: 26.09-beta1
 > Released to Public: no
 > Active developement: Yes
 
